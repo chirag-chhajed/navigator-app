@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "240104267874",
+    "project_id": "swift-search-chrome-extension",
+    "storage_bucket": "swift-search-chrome-extension.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240104267874:android:b14eb6ab46efb729a1713b",
+        "android_client_info": {
+          "package_name": "com.swiftsearch.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240104267874-24ht71qjob91t0ggm8ufup2q1lfuu996.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swiftsearch.firebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "240104267874-fhvpcqai2062nt9ikscc9j5qpd2kqjfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swiftsearch.firebase",
+            "certificate_hash": "c3a3d7a803bcbde6b562b356930686f4396ef9b3"
+          }
+        },
+        {
+          "client_id": "240104267874-vi5b6fd3odfuephj8uuk7f2m34vr88mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swiftsearch.firebase",
+            "certificate_hash": "617e9f55d6c3d9a2716a7c9e3a550d7f22eaf905"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Dt6-2NGffo_Hw2GFlaFDBvRJR3FPMmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240104267874-0b34rikbkjoquq7pj5m4h5uq0csrah4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
